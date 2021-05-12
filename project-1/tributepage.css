@@ -1,0 +1,33 @@
+.final{
+    background-color: #eee;
+    border-radius: 8px;
+}
+body{
+    margin-top: 33px;
+}
+.text-centre {
+    text-align: center;
+}
+.upper .border1 {
+    text-align: center;
+    border: 1px groove;
+}
+.back{
+    background-color: #eee;
+    text-align: center;
+    border: 1px groove;
+    padding: 10px;
+}
+.upper .border2 {
+    background-color: #ddd;
+    text-align: center;
+    border : 1px groove;
+    padding: 10px;
+}
+.foot{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.pad {
+    padding: 20px;
+}
